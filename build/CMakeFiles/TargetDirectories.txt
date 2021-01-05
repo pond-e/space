@@ -1,0 +1,3 @@
+/home/pond/space/build/CMakeFiles/rebuild_cache.dir
+/home/pond/space/build/CMakeFiles/edit_cache.dir
+/home/pond/space/build/CMakeFiles/opencv.dir
