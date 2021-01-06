@@ -8,6 +8,7 @@ CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/co
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/base.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/bufferpool.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/check.hpp
+CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/core_c.h
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/cuda.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/cuda.inl.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/cuda_types.hpp
@@ -31,6 +32,7 @@ CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/co
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/saturate.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/traits.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/types.hpp
+CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/types_c.h
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/utility.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/utils/instrumentation.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/core/utils/tls.hpp
@@ -79,6 +81,7 @@ CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/fl
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/highgui.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/imgcodecs.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/imgproc.hpp
+CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/imgproc/types_c.h
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/ml.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/ml/ml.inl.hpp
 CMakeFiles/opencv.dir/opencv.cpp.o: /home/pond/.local/include/opencv4/opencv2/objdetect.hpp
